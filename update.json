@@ -1,0 +1,19 @@
+{
+  "version": "2.8.0",
+  "build": "2.8.0",
+  "minOS": "13.0",
+  "published": "2026-11-22",
+  "notes": {
+    "it": [
+      "Aggiunto controllo aggiornamenti da GitHub, con note in italiano e inglese",
+      "Nuovo comando «Controlla aggiornamenti…» e opzioni dedicate nelle Impostazioni"
+    ],
+    "en": [
+      "Added update checks from GitHub, with Italian and English notes",
+      "New “Check for updates…” command and dedicated options in Settings"
+    ]
+  },
+  "pageURL": "https://github.com/fabiosun/HackCheck2/releases/tag/v2.8.0",
+  "downloadURL": "https://github.com/fabiosun/HackCheck2/releases/download/v2.8.0/HackCheck-2.8.0-universal.dmg",
+  "sha256": "38c49a1e46025928a9f1dc60c34fd4f68d0f7b3d2fc4fc8ac582d41034d7db5c"
+}
